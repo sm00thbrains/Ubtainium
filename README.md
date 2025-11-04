@@ -7,11 +7,12 @@
 
 Tired of Ubuntu's repos lagging years behind? Ubuntainium watches GitHub releases and auto-updates your tools. `.deb`, `.AppImage`, binaries — all handled.
 
-```bash
+bash
 curl -fsSL get.ubuntainium.sh | bash
 ubuntainium add windterm kingToolbox/WindTerm deb "WindTerm_.*amd64\\.deb" \
   "sudo dpkg -i {{file}} || sudo apt install -f -y"
 ubuntainium  # Updates everything
+
 
 **Why Ubuntainium?**
 
