@@ -1,5 +1,13 @@
 # Ubuntainium
 
+████████╗
+   ██╔══════╝
+   ╚═╝  ███╗
+   ████████║
+   ╚═══════╝
+   U B T M
+   ZIG-PURE PACKAGE MANAGER
+
 [![GitHub stars](https://img.shields.io/github/stars/sm00thbrains/Ubuntainium)](https://github.com/sm00thbrains/Ubuntainium/stars)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
