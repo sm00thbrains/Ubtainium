@@ -1,19 +1,24 @@
 # Ubuntainium
+<pre>
+
+
+   
 
 
 
-████████╗
+ ████████╗
    ██╔══════╝
    ╚═╝  ███╗
    ████████║
    ╚═══════╝
    U B T M
-   ZIG-PURE PACKAGE MANAGER
+   ZIG-PURE PACKAGE MANAGER  
 
 
 
 
-
+   
+</pre>
    
 
 [![GitHub stars](https://img.shields.io/github/stars/sm00thbrains/Ubuntainium)](https://github.com/sm00thbrains/Ubuntainium/stars)
